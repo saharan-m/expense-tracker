@@ -1,0 +1,62 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mayank
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git config --local branch.master.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git remote add expense-tracker https://github.com/saharan-m/expense-tracker.git
+error: could not lock config file .git/config: Permission denied
+fatal: could not set 'remote.expense-tracker.url' to 'https://github.com/saharan-m/expense-tracker.git'
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git config --local branch.master.github-pr-owner-number
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git remote add expense-tracker https://github.com/saharan-m/expense-tracker.git
+fatal: remote expense-tracker already exists.
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git remote add expense-tracker https://github.com/saharan-m/expense-tracker.git
+fatal: remote expense-tracker already exists.
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git symbolic-ref --short HEAD
+> git remote add origin https://github.com/saharan-m/mayank.git
+error: could not lock config file .git/config: Permission denied
+fatal: could not set 'remote.origin.url' to 'https://github.com/saharan-m/mayank.git'
+> git symbolic-ref --short HEAD
+> git remote add origin https://github.com/saharan-m/mayank.git
+error: could not lock config file .git/config: Permission denied
+fatal: could not set 'remote.origin.url' to 'https://github.com/saharan-m/mayank.git'
+> git add -A -- .
+fatal: Unable to create '/home/mayank/.git/index.lock': Permission denied
+> git symbolic-ref --short HEAD
+> git remote add origin https://github.com/saharan-m/expense-tracker.git
+error: could not lock config file .git/config: Permission denied
+fatal: could not set 'remote.origin.url' to 'https://github.com/saharan-m/expense-tracker.git'
+> git add -A -- .
+> git check-ignore -v -z --stdin

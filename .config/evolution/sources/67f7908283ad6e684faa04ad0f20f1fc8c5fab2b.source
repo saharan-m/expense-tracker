@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mayanksaharan18@gmail.com
+Enabled=true
+Parent=e61cf3894859b0e2a00bbe423ab2f203c2937a57
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=2e2cdc1960382179b79358c228f96b3b9dd7e23c
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mayanksaharan18@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

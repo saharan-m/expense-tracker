@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="48" last-seen="1630430570"/>
+    <application id="org.gnome.Nautilus.desktop" score="50" last-seen="1630484446"/>
+    <application id="nvidia-settings.desktop" score="10" last-seen="1630477074"/>
+    <application id="firefox.desktop" score="470" last-seen="1630484447"/>
+    <application id="org.gnome.Terminal.desktop" score="322" last-seen="1630484444"/>
+    <application id="gnome-initial-setup.desktop" score="28" last-seen="1630430199"/>
+    <application id="software-properties-gtk.desktop" score="5" last-seen="1630477103"/>
+    <application id="org.gnome.gedit.desktop" score="4" last-seen="1630480830"/>
+    <application id="code_code.desktop" score="193" last-seen="1630484172"/>
+    <application id="update-manager.desktop" score="1" last-seen="1630480795"/>
+    <application id="gnome-control-center.desktop" score="1" last-seen="1630480519"/>
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>

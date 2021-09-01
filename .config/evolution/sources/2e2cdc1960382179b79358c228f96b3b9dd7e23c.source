@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=mayanksaharan18@gmail.com
+Enabled=true
+Parent=e61cf3894859b0e2a00bbe423ab2f203c2937a57
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mayanksaharan18@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

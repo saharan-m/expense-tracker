@@ -1,0 +1,22 @@
+[2021-09-01 11:50:54.853] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-01 11:51:00.708] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-01 11:51:03.808] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/mayank/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-8.1.0
+[2021-09-01 11:51:04.071] [sharedprocess] [info] Extracted extension to /home/mayank/.vscode/extensions/.4c038069-a0f5-4068-81ce-cb610f528b28: esbenp.prettier-vscode
+[2021-09-01 11:51:04.123] [sharedprocess] [info] Renamed to /home/mayank/.vscode/extensions/esbenp.prettier-vscode-8.1.0
+[2021-09-01 11:51:04.125] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-01 11:51:04.161] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-01 11:51:14.850] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-01 11:51:14.851] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-01 11:51:24.847] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-01 11:51:29.229] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2021-09-01 11:51:31.541] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/mayank/.config/Code/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.23.1
+[2021-09-01 11:51:31.606] [sharedprocess] [info] Extracted extension to /home/mayank/.vscode/extensions/.c0170179-5acc-4599-bc87-69f6f1897905: dracula-theme.theme-dracula
+[2021-09-01 11:51:32.001] [sharedprocess] [info] Renamed to /home/mayank/.vscode/extensions/dracula-theme.theme-dracula-2.23.1
+[2021-09-01 11:51:32.005] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2021-09-01 11:51:32.234] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2021-09-01 13:20:49.058] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-09-01 13:20:52.630] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/mayank/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.29.2
+[2021-09-01 13:20:53.181] [sharedprocess] [info] Extracted extension to /home/mayank/.vscode/extensions/.6255a251-deb5-44ad-a9b8-e06b4f9883a1: github.vscode-pull-request-github
+[2021-09-01 13:20:53.554] [sharedprocess] [info] Renamed to /home/mayank/.vscode/extensions/github.vscode-pull-request-github-0.29.2
+[2021-09-01 13:20:53.555] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2021-09-01 13:20:53.908] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
